@@ -1,0 +1,1 @@
+void starring(void);
